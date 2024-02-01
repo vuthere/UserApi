@@ -1,5 +1,5 @@
 1=budowniczyv1
-2=gracz123
+2=kupieclsa
 3=programistaX
 4=superfan33
 5=artystaCreative
