@@ -1,0 +1,10 @@
+API:
+  version: "1.0.0"
+
+Client:
+  1:
+    username: "dexu"
+    authToken: "352-FSD-3FD-3GD-3GH"
+  2:
+    username: "fnoksu"
+    authToken: "378X-DgSD-543D-XA"
